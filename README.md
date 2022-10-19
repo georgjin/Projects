@@ -1,2 +1,2 @@
 # 霍夫曼压缩
-````gcc -o menu menu.c huffman.c
+`gcc -o menu menu.c huffman.c`
